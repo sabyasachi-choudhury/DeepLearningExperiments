@@ -1,0 +1,9 @@
+train_breed_x.pickle filter=lfs diff=lfs merge=lfs -text
+train_breed_y.pickle filter=lfs diff=lfs merge=lfs -text
+train_labels.pickle filter=lfs diff=lfs merge=lfs -text
+breed_labels.pickle filter=lfs diff=lfs merge=lfs -text
+train_2.pickle filter=lfs diff=lfs merge=lfs -text
+test_breed_y.pickle filter=lfs diff=lfs merge=lfs -text
+train_breeds.pickle filter=lfs diff=lfs merge=lfs -text
+indices.pickle filter=lfs diff=lfs merge=lfs -text
+test_breed_x.pickle filter=lfs diff=lfs merge=lfs -text
